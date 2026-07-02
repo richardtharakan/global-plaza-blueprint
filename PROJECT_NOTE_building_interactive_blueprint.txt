@@ -1,0 +1,22 @@
+Project name: building interactive blueprint
+
+Purpose:
+Interactive HTML/SVG building blueprint for Global Plaza.
+
+Current version:
+V3 rich-hover popup version.
+
+Main improvements in this version:
+1. Hover popup now shows full details, not only a short tooltip.
+2. Side details panel is still kept for stable click-based viewing.
+3. Design remains in Global Plaza brochure theme: dark green, gold, cream, wood-inspired premium style.
+4. Vacant rooms are light green, occupied rooms are cream/gold, and review/mismatch items are grey/dashed or flagged with warning notes.
+5. Data is based on the uploaded rent/space details PDF and cross-checked with the floor-plan labels.
+
+Files:
+- building_interactive_blueprint_global_plaza.html
+- building_interactive_blueprint_data.json
+- building_interactive_blueprint_data.csv
+
+Next recommended step:
+Open the HTML in Chrome, check hover cards floor by floor, and confirm room-label mismatches before publishing online.
